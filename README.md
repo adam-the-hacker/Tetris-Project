@@ -1,4 +1,4 @@
-# Final-Project
+# Tetris-Project
 
 Tetris game.
 
